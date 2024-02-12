@@ -7,7 +7,16 @@
 <ul>
 <section style="width:50%; padding:15px; float:left;">
   <h1>🎯-Objetivos<h1>
+  <ul>
+  <li>Aprimorar meus conhecimentos</li>
+  <li>Trabalhar em grandes projetos</li>
+  <li>Trabalhar meio período para destribuir o tempo em outras atividades</li>
+  </ul>
 </section>
 <section>
   <h1>🏆-Conquistas</h1>
+  <li>Conhecimento em módulos (HTML 5, CSS 3, JS</li>
+  <li></li>
+  <li></li>
+
 </section>
