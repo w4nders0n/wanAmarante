@@ -14,9 +14,10 @@
   </ul>
 </section>
 <section>
-  <h1>🏆-Conquistas</h1>
+  <h1>🏆-Conquistas</h1> 
+  <ul>
   <li>Conhecimento em módulos (HTML 5, CSS 3, JS</li>
   <li></li>
   <li></li>
-
+  </ul>
 </section>
