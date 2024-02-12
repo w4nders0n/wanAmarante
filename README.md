@@ -6,8 +6,8 @@
   <li>🔔Contate-me : w4nders0n2019@gmail.com</li>
 <ul>
 <section style="width:50%; padding:15px; float:left;">
-  <h1>Objetivos<h1>
+  <h1>🎯-Objetivos<h1>
 </section>
 <section>
-  <h1>Conquistas</h1>
+  <h1>🏆-Conquistas</h1>
 </section>
