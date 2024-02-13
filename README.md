@@ -5,19 +5,11 @@
   <li>👔Buscando oportunidades na área de desenvolvimento web</li>
   <li>🔔Contate-me : w4nders0n2019@gmail.com</li>
 <ul>
-<section style="width:50%; padding:15px; float:left;">
+<section>
   <h1>🎯-Objetivos<h1>
   <ul>
   <li>Aprimorar meus conhecimentos</li>
   <li>Trabalhar em grandes projetos</li>
   <li>Trabalhar meio período para destribuir o tempo em outras atividades</li>
-  </ul>
-</section>
-<section>
-  <h1>🏆-Conquistas</h1> 
-  <ul>
-  <li></li>
-  <li></li>
-  <li></li>
   </ul>
 </section>
